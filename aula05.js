@@ -1,0 +1,14 @@
+"use strict";
+let cursos;
+let teste;
+let palavras = ['Javascript', 192, 912.3, true];
+let palavrasAny = ['Javascript', 192, 912.3, true];
+cursos = "Informática";
+cursos = 2024;
+cursos = true;
+teste = false;
+teste = palavras;
+palavras.push("Arduíno");
+console.log(palavras);
+console.log(teste);
+console.log(cursos);
